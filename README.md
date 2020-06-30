@@ -1,6 +1,7 @@
 # README
 ##how to use Github Desktop
 ##so I am busy
+##but I go to school
 
 This README would normally document whatever steps are necessary to get the
 application up and running.

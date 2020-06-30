@@ -2,7 +2,6 @@
 ##how to use Github Desktop
 ##so I am busy
 ##but I go to school
-##I am very hungry
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
